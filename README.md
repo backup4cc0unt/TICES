@@ -9,3 +9,4 @@ In unfinished form, this work was shared with others before this repository was 
 - Smita Krishnaswamy @ Yale University, 2023-10-09
 - Nathan Rollins @ Seismic Therapeutic, 2022-12
 - Leah Brickson @ Colossal BioSciences, 2023-10-05
+- Diana Murray @ Columbia University, 2022-11-01
