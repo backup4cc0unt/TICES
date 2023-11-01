@@ -5,4 +5,4 @@ terminus inter conscios et sensus, the boundary between the conscious and the se
 
 Comments and reviews of this work are welcome in the [Issues](https://github.com/dyl4nm4rsh4ll/TICES/issues) page of this repository, anonymously or not.
 
-Shared with Chris Bahl @ AI proteins and Sergey Ovchinnikov @ Harvard University on 2023-10-28.
+An unfinished version of this was shared with Chris Bahl @ AI proteins and Sergey Ovchinnikov @ Harvard University on 2022-10-18***
