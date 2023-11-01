@@ -8,3 +8,4 @@ Comments and reviews of this work are welcome in the [Issues](https://github.com
 In unfinished form, this work was shared with others before this repository was set up and formal notarization, including:
 - Smita Krishnaswamy @ Yale University, 2023-10-09
 - Nathan Rollins @ Seismic Therapeutic, 2022-12
+- Leah Brickson @ Colossal BioSciences, 2023-10-05
