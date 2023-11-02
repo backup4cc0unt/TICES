@@ -6,3 +6,5 @@ terminus inter conscios et sensus, the boundary between the conscious and the se
 Comments and reviews of this work are welcome in the [Issues](https://github.com/dyl4nm4rsh4ll/TICES/issues) page of this repository, anonymously or not.
 
 Made public on 2023-11-01. Others who have seen these results in an unfinished form can be found in the repository contributions.
+
+[![DOI](https://zenodo.org/badge/712282968.svg)](https://zenodo.org/doi/10.5281/zenodo.10067747)
