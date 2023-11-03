@@ -7,7 +7,4 @@ Comments and reviews of this work are welcome in the [Issues](https://github.com
 
 Made public on 2023-11-01. Others who have seen these results in an unfinished form can be found in the repository contributions.
 
-In unfinished form, this work was shared with others before this repository was set up and formal notarization, including:
- - EPFL EDNE faculty (Michael Herzog, Dimitri Van De Ville, Mackenzie Mathis, Alexander Mathis, Martin Schrimpf) @ 2022-11-01
-
 To cite: [![DOI](https://zenodo.org/badge/712282968.svg)](https://zenodo.org/doi/10.5281/zenodo.10067747)
