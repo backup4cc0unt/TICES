@@ -8,3 +8,5 @@ Comments and reviews of this work are welcome in the [Issues](https://github.com
 Made public on 2023-11-01. Others who have seen this in an unfinished form can be found in the commits of this repository.
 
 To cite: [![DOI](https://zenodo.org/badge/712282968.svg)](https://zenodo.org/doi/10.5281/zenodo.10067747)
+
+TICES © 2023 by Dylan Marshall is licensed under Attribution-NoDerivatives 4.0 International 
