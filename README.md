@@ -10,4 +10,3 @@ Made public on 2023-11-01. Others who have seen this in an unfinished form can b
 To cite: [![DOI](https://zenodo.org/badge/712282968.svg)](https://zenodo.org/doi/10.5281/zenodo.10067747)
 
 ![license](https://raw.githubusercontent.com/dyl4nm4rsh4ll/TICES/main/LICENSE.png)
-[CC BY-ND 4.0 DEED license details](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1)
