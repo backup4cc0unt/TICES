@@ -7,8 +7,6 @@ Comments and reviews of this work are welcome in the [Issues](https://github.com
 
 Made public on 2023-11-01. Others who have seen this in an unfinished form can be found in the commits of this repository.
 
-It is possible the contents of this paper and repository in an unfinished form, hosted on a personal Google Drive / Chrome account, were stolen by a Google employee. I never gave explicit permission for this information to be shared with others. This could be considered theft in a court of law, if properly litigated.
-
 To cite: [![DOI](https://zenodo.org/badge/712282968.svg)](https://zenodo.org/doi/10.5281/zenodo.10067747)
 
 ![license](https://raw.githubusercontent.com/dyl4nm4rsh4ll/TICES/main/LICENSE.png)
