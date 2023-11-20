@@ -7,8 +7,6 @@ Comments and reviews of this work are welcome in the [Issues](https://github.com
 
 Made public on 2023-11-01. Others who have seen this in an unfinished form can be found in the commits of this repository.
 
-I am providing additional details for what could have transpired with respect to the aforementioned family member, Alan Marshall. I note that it is possible he may have been tricked or scammed (by an adversary of mine) into copying the data from the USB stick that is mentioned in the supplemental document in this repository. That does not justify the theft and will be held accountable in a court of law all the same. 
-
 To cite: [![DOI](https://zenodo.org/badge/712282968.svg)](https://zenodo.org/doi/10.5281/zenodo.10067747)
 
 ![license](https://raw.githubusercontent.com/dyl4nm4rsh4ll/TICES/main/LICENSE.png)
