@@ -7,6 +7,8 @@ Comments and reviews of this work are welcome in the [Issues](https://github.com
 
 Made public on 2023-11-01. Others who have seen this in an unfinished form can be found in the commits of this repository.
 
+Another person who saw the contents of this repository before making it public is Kyle Coburn. They never received explicit approval to publish this or share it with others and will be held in a court of law for copyright infringement if they are party to any act of plagiarization.
+
 To cite: [![DOI](https://zenodo.org/badge/712282968.svg)](https://zenodo.org/doi/10.5281/zenodo.10067747)
 
 ![license](https://raw.githubusercontent.com/dyl4nm4rsh4ll/TICES/main/LICENSE.png)
